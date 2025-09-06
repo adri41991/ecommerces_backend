@@ -1,4 +1,4 @@
-module github.com/adri41991/ecommerces_backend
+module github.com/adri41991/ecommerces_backend/core
 
 go 1.22.0
 
