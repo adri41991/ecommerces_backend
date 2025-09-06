@@ -1,8 +1,9 @@
 package middleware
 
 import (
-	"ecommerces/backend/core/logger"
 	"net/http"
+
+	"github.com/adri41991/ecommerces_backend/core/logger"
 )
 
 // ApplyCommonMiddlewares aplica middlewares comunes (Logger y Recovery) a cualquier handler.
