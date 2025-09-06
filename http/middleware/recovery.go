@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"runtime/debug"
 
-	"github.com/adri41991/ecommerces_backend/core/http/response"
+	"github.com/adri41991/ecommerces_backend/http/response"
 )
 
 // Recovery es un middleware que se recupera de panics, los registra y devuelve

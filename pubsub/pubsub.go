@@ -8,7 +8,7 @@ import (
 	"log/slog"
 	"net/http"
 
-	"github.com/adri41991/ecommerces_backend/core/http/response"
+	"github.com/adri41991/ecommerces_backend/http/response"
 )
 
 // PubSubMessage represents the format of a message sent by Google Pub/Sub.
